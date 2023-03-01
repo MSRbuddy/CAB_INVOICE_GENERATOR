@@ -1,0 +1,5 @@
+C:\Users\USER\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\CabInvcGenrtr-UC3\CabInvcGenrtr-UC3\obj\Debug\net6.0\CabInvcGenrtr-UC3.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\CabInvcGenrtr-UC3\CabInvcGenrtr-UC3\obj\Debug\net6.0\CabInvcGenrtr-UC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\CabInvcGenrtr-UC3\CabInvcGenrtr-UC3\obj\Debug\net6.0\CabInvcGenrtr-UC3.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\CabInvcGenrtr-UC3\CabInvcGenrtr-UC3\obj\Debug\net6.0\CabInvcGenrtr-UC3.AssemblyInfo.cs
+C:\Users\USER\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\CabInvcGenrtr-UC3\CabInvcGenrtr-UC3\obj\Debug\net6.0\CabInvcGenrtr-UC3.csproj.CoreCompileInputs.cache
